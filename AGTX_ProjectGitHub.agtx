@@ -7,7 +7,7 @@
   <AutomationVersion>1.0</AutomationVersion>
   <AutomationPassword>OwN7ssQ09wWexdQ4iJ8+q62/EKhzwgv+5toQc327D/8=</AutomationPassword>
   <DateCreation>2023-12-06T15:05:32.6959192-05:00</DateCreation>
-  <LastSave>2023-12-06T15:09:05.9032065-05:00</LastSave>
+  <LastSave>2023-12-06T15:19:50.3700386-05:00</LastSave>
   <LocalVersionControl>true</LocalVersionControl>
   <AgilityRunStartupLocation>
     <X>0</X>
@@ -38,8 +38,8 @@
         <DesignerItem>
           <Left>30</Left>
           <Top>26</Top>
-          <Width>60</Width>
-          <Height>60</Height>
+          <Width>50</Width>
+          <Height>50</Height>
           <ID>bfde6983-cc98-40d2-abf1-3a92d06bc938</ID>
           <zIndex>0</zIndex>
           <IsGroup>false</IsGroup>
@@ -64,10 +64,11 @@
           <ProcessNodeObject>
             <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ActionNode">
   <InputGuid>ad97a1d4-31d4-41f3-8d15-098929a498b0</InputGuid>
+  <NodeName>nodo1</NodeName>
   <IsDisabled>false</IsDisabled>
   <OutputGuids>b57fe8fb-7b93-417b-ad19-b4b827f2f685</OutputGuids>
   <PlaybackWorkSequence>
-    <WorkSequenceId>eaf528b6-1597-4cfd-990e-fa7a0e333bb6</WorkSequenceId>
+    <WorkSequenceId>881b7254-cabf-4910-83f0-9dfeaaa44023</WorkSequenceId>
     <ProcessSteps />
     <UiSteps />
   </PlaybackWorkSequence>
@@ -87,10 +88,11 @@
           <ProcessNodeObject>
             <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ActionNode">
   <InputGuid>022c9f89-e3d3-48ea-bc11-198d195b8319</InputGuid>
+  <NodeName>nodo2</NodeName>
   <IsDisabled>false</IsDisabled>
   <OutputGuids>102a214c-3c32-41a6-be36-b89dfff1229f</OutputGuids>
   <PlaybackWorkSequence>
-    <WorkSequenceId>0018b05e-d5f5-42e4-9689-031fcf756f8e</WorkSequenceId>
+    <WorkSequenceId>86fc9aab-15cc-4f24-93b7-7e8f6e2e32df</WorkSequenceId>
     <ProcessSteps />
     <UiSteps />
   </PlaybackWorkSequence>
