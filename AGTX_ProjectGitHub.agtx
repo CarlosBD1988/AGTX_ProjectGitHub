@@ -88,6 +88,7 @@
           <ProcessNodeObject>
             <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ActionNode">
   <InputGuid>022c9f89-e3d3-48ea-bc11-198d195b8319</InputGuid>
+
   <NodeName>nodo final</NodeName>
   <IsDisabled>false</IsDisabled>
   <OutputGuids>102a214c-3c32-41a6-be36-b89dfff1229f</OutputGuids>
