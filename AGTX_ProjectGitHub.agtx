@@ -64,7 +64,7 @@
           <ProcessNodeObject>
             <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ActionNode">
   <InputGuid>ad97a1d4-31d4-41f3-8d15-098929a498b0</InputGuid>
-  <NodeName>nodo inicial</NodeName>
+  <NodeName>NODO INICIAL</NodeName>
   <IsDisabled>false</IsDisabled>
   <OutputGuids>b57fe8fb-7b93-417b-ad19-b4b827f2f685</OutputGuids>
   <PlaybackWorkSequence>
@@ -89,7 +89,7 @@
             <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ActionNode">
   <InputGuid>022c9f89-e3d3-48ea-bc11-198d195b8319</InputGuid>
 
-  <NodeName>nodo final</NodeName>
+  <NodeName>NODE FINAL</NodeName>
   <IsDisabled>false</IsDisabled>
   <OutputGuids>102a214c-3c32-41a6-be36-b89dfff1229f</OutputGuids>
   <PlaybackWorkSequence>
