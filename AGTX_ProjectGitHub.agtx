@@ -7,7 +7,7 @@
   <AutomationVersion>1.0</AutomationVersion>
   <AutomationPassword>OwN7ssQ09wWexdQ4iJ8+q62/EKhzwgv+5toQc327D/8=</AutomationPassword>
   <DateCreation>2023-12-06T15:05:32.6959192-05:00</DateCreation>
-  <LastSave>2023-12-06T15:19:50.3700386-05:00</LastSave>
+  <LastSave>2023-12-06T15:33:51.7271884-05:00</LastSave>
   <LocalVersionControl>true</LocalVersionControl>
   <AgilityRunStartupLocation>
     <X>0</X>
@@ -64,11 +64,11 @@
           <ProcessNodeObject>
             <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ActionNode">
   <InputGuid>ad97a1d4-31d4-41f3-8d15-098929a498b0</InputGuid>
-  <NodeName>nodo1</NodeName>
+  <NodeName>nodo inicial</NodeName>
   <IsDisabled>false</IsDisabled>
   <OutputGuids>b57fe8fb-7b93-417b-ad19-b4b827f2f685</OutputGuids>
   <PlaybackWorkSequence>
-    <WorkSequenceId>881b7254-cabf-4910-83f0-9dfeaaa44023</WorkSequenceId>
+    <WorkSequenceId>bdd037ca-1992-49eb-b015-6f0fd89b830d</WorkSequenceId>
     <ProcessSteps />
     <UiSteps />
   </PlaybackWorkSequence>
@@ -88,11 +88,11 @@
           <ProcessNodeObject>
             <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ActionNode">
   <InputGuid>022c9f89-e3d3-48ea-bc11-198d195b8319</InputGuid>
-  <NodeName>nodo2</NodeName>
+  <NodeName>nodo final</NodeName>
   <IsDisabled>false</IsDisabled>
   <OutputGuids>102a214c-3c32-41a6-be36-b89dfff1229f</OutputGuids>
   <PlaybackWorkSequence>
-    <WorkSequenceId>86fc9aab-15cc-4f24-93b7-7e8f6e2e32df</WorkSequenceId>
+    <WorkSequenceId>eb7a578d-4f47-495c-9260-b9ca424b75af</WorkSequenceId>
     <ProcessSteps />
     <UiSteps />
   </PlaybackWorkSequence>
